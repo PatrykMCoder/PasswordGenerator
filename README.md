@@ -6,7 +6,7 @@ Minimum android support: 9.0 [SDK 28]
 
 ### How to use
 
-Insert length of password - beetwen 8 - 100
+Insert length of password - between 8 - 100
 
 Press create button - app will generate password
 Press copy button - app will copy password to your clipboard
