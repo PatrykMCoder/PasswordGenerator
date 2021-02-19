@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="copy">Copy</string>
+    <string name="create">Create</string>
+    <string name="length_password">Length password</string>
+    <string name="include_big_alphabet_letter">Include big alphabet letter</string>
+    <string name="include_small_alphabet_letters">Include small alphabet letters</string>
+    <string name="include_special_characters">Include special characters</string>
+    <string name="include_numbers">Include numbers</string>
+</resources>
